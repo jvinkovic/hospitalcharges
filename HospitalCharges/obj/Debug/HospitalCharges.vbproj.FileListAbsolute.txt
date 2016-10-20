@@ -1,0 +1,10 @@
+D:\Projekti\VSProjekti\HospitalCharges\HospitalCharges\bin\Debug\HospitalCharges.exe.config
+D:\Projekti\VSProjekti\HospitalCharges\HospitalCharges\bin\Debug\HospitalCharges.exe
+D:\Projekti\VSProjekti\HospitalCharges\HospitalCharges\bin\Debug\HospitalCharges.pdb
+D:\Projekti\VSProjekti\HospitalCharges\HospitalCharges\bin\Debug\HospitalCharges.xml
+D:\Projekti\VSProjekti\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.Form1.resources
+D:\Projekti\VSProjekti\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.Resources.resources
+D:\Projekti\VSProjekti\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.vbproj.GenerateResource.Cache
+D:\Projekti\VSProjekti\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.exe
+D:\Projekti\VSProjekti\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.xml
+D:\Projekti\VSProjekti\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.pdb
